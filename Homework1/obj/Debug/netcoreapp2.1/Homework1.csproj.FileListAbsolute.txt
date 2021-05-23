@@ -1,0 +1,33 @@
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfo.cs
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\bin\Debug\netcoreapp2.1\Homework1.deps.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.dev.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\bin\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\bin\Debug\netcoreapp2.1\Homework1.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Homework1\obj\Debug\netcoreapp2.1\Homework1.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.deps.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.dev.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfo.cs
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.deps.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.runtimeconfig.dev.json
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\bin\Debug\netcoreapp2.1\Homework1.pdb
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.csprojAssemblyReference.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.AssemblyInfo.cs
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.dll
+C:\Users\ALMTOBE01\OneDrive - Kommunsamverkan\Privat\Plugga\HKR\Module 1\Tova Becker\Homework1\obj\Debug\netcoreapp2.1\Homework1.pdb
